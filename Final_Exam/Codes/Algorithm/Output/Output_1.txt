@@ -1,0 +1,135 @@
+Hello Maunil :-)
+
+Below are most close carrier based on your current skills:
+
+-------------------------------------------------------------
+If you want to become junior_software_engineer you have to acquire following 8
+skills:
+
+    -> microsoft_office
+    -> javascript
+    -> c#
+    -> html
+    -> jquery
+    -> css
+    -> python
+    -> asp.net
+
+****Who will hire you?****
+
+The Companies that could hire you after becoming junior_software_engineer in B
+zil are:
+
+    ->  Capegemini
+    ->  Motorola Industrial Ltda.
+    ->  Petrobras IT
+
+-------------------------------------------------------------
+If you want to become software_backend_developer you have to acquire following
+ skills:
+
+    -> php
+    -> html5
+    -> javascript
+    -> css
+    -> c#
+    -> jquery
+    -> scrum
+    -> linux
+
+****Who will hire you?****
+
+The Companies that could hire you after becoming software_backend_developer in
+razil are:
+
+    -> no jobs in Brazil
+
+-------------------------------------------------------------
+If you want to become java_developer you have to acquire following 8 skills:
+
+    -> php
+    -> jquery
+    -> javascript
+    -> oracle
+    -> scrum
+    -> eclipse
+    -> hibernate
+    -> mongodb
+
+****Who will hire you?****
+
+The Companies that could hire you after becoming java_developer in Brazil are:
+
+    ->  Satya Sistemas
+    ->  Belo Horizonte
+    ->  MG && Synopsys
+    ->  Belo Horizonte
+    ->  RS && Grupo Isdra
+    ->  Controlux
+    ->  AlphaPark Estacionamentos
+
+-------------------------------------------------------------
+If you want to become junior_software_engineer you have to acquire following 8
+kills:
+
+    -> microsoft_office
+    -> javascript
+    -> c#
+    -> html
+    -> jquery
+    -> css
+    -> python
+    -> asp.net
+
+****Who will hire you?****
+
+The Companies that could hire you after becoming junior_software_engineer in B
+zil are:
+
+    ->  Capegemini
+    ->  Motorola Industrial Ltda.
+    ->  Petrobras IT
+
+-------------------------------------------------------------
+If you want to become software_backend_developer you have to acquire following
+ skills:
+
+    -> php
+    -> html5
+    -> javascript
+    -> css
+    -> c#
+    -> jquery
+    -> scrum
+    -> linux
+
+****Who will hire you?****
+
+The Companies that could hire you after becoming software_backend_developer in
+razil are:
+
+    -> no jobs in Brazil
+
+-------------------------------------------------------------
+If you want to become java_developer you have to acquire following 8 skills:
+
+    -> php
+    -> jquery
+    -> javascript
+    -> oracle
+    -> scrum
+    -> eclipse
+    -> hibernate
+    -> mongodb
+
+****Who will hire you?****
+
+The Companies that could hire you after becoming java_developer in Brazil are:
+
+    ->  Satya Sistemas
+    ->  Belo Horizonte
+    ->  MG && Synopsys
+    ->  Belo Horizonte
+    ->  RS && Grupo Isdra
+    ->  Controlux
+    ->  AlphaPark Estacionamentos

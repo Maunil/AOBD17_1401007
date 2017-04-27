@@ -1,0 +1,10 @@
+Social Skills
+->Encourages Teamwork
+->Maintain good social Relationship with Colleagues
+
+Technical Skills 
+    ->Operating Systems Windows XP, Windows 7,8.1, UNIX,UNIX Shell Scripting 
+    ->Languages SQL, PL/SQL , Java 
+    ->Tools TOAD, AquaData Studio, PowerBuilder 11, Java NetBeans, JIRA, Visual Source Safe, Dreamweaver, SQLyog 
+    ->Database Oracle (Oracle 9i/10g), Sybase, MySQL 
+    ->Statistical & Data Mining Tools SAS VA, Pentaho 

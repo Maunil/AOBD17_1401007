@@ -1,0 +1,59 @@
+{
+    "java_developer": [
+        "java", 
+        "php", 
+        "jquery", 
+        "javascript", 
+        "oracle", 
+        "scrum", 
+        "eclipse", 
+        "git", 
+        "hibernate", 
+        "mongodb"
+    ], 
+    "software_developer": [
+        "java", 
+        "javascript", 
+        "php", 
+        "jquery", 
+        "oracle", 
+        "scrum", 
+        "angularjs", 
+        "ruby", 
+        "c#", 
+        "linux", 
+        "c++", 
+        "python", 
+        "mongodb", 
+        "asp.net", 
+        "eclipse", 
+        "git", 
+        "jsf", 
+        "android"
+    ], 
+    "junior_software_engineer": [
+        "microsoft_office", 
+        "java", 
+        "c++", 
+        "javascript", 
+        "c#", 
+        "html", 
+        "jquery", 
+        "css", 
+        "python", 
+        "asp.net"
+    ], 
+    "software_backend_developer": [
+        "php", 
+        "html5", 
+        "javascript", 
+        "java", 
+        "css", 
+        "c#", 
+        "git", 
+        "jquery", 
+        "scrum", 
+        "linux", 
+        "angularjs"
+    ]
+}

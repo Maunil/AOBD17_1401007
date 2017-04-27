@@ -1,0 +1,87 @@
+{
+    "java_developer": {
+        "Brazil": [
+            " Satya Sistemas", 
+            " Belo Horizonte", 
+            " MG && Synopsys", 
+            " Belo Horizonte", 
+            " RS && Grupo Isdra", 
+            " Controlux", 
+            " AlphaPark Estacionamentos"
+        ], 
+        "USA": [
+            " Disney"
+        ], 
+        "India": [
+            " Volvo IT", 
+            " Ambush Consulting", 
+            " NTConsult", 
+            " ThoughtWorks"
+        ], 
+        "UK": [
+            " HSBC Global Asset Management"
+        ], 
+        "US": [
+            " Mercedes-Benz", 
+            " Snapfone"
+        ]
+    }, 
+    "software_developer": {
+        "Brazil": [
+            " Capegemini", 
+            " Motorola Industrial Ltda.", 
+            " Petrobras IT"
+        ], 
+        "India": [
+            " Capegemini", 
+            " Google India Pvt. Ltd."
+        ], 
+        "USA": [
+            " Google Inc."
+        ], 
+        "France": [
+            " Capegemini"
+        ]
+    }, 
+    "junior_software_engineer": {
+        "Brazil": [
+            " Capegemini", 
+            " Motorola Industrial Ltda.", 
+            " Petrobras IT"
+        ], 
+        "India": [
+            " Capegemini", 
+            " Google India Pvt. Ltd."
+        ], 
+        "USA": [
+            " Google Inc."
+        ], 
+        "France": [
+            " Capegemini"
+        ]
+    }, 
+    "software_backend_developer": {
+        "India": [
+            " Nagarro Software", 
+            " Mercer Consulting India Pvt. Ltd", 
+            " Oracle Corporation Ltd", 
+            " Wipro Technologies Ltd"
+        ], 
+        "Sweden": [
+            " Dixa", 
+            " Matalan"
+        ], 
+        "Vietnam": [
+            " Golden Gekko"
+        ], 
+        "Germany": [
+            " Autodoc GmbH", 
+            " Startsell"
+        ], 
+        "UK": [
+            " United Vanning", 
+            " Defence Academy of the United Kingdom", 
+            " Wednesfield && J. Sainsbury's"
+        ]
+    }
+}

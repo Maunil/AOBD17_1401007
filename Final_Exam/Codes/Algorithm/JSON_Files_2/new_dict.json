@@ -1,0 +1,94 @@
+{
+    "visual_studio": [
+        "software_developer"
+    ], 
+    "dot_net": [
+        "software_developer"
+    ], 
+    "hibernate": [
+        "java_developer"
+    ], 
+    "angularjs": [
+        "software_backend_developer"
+    ], 
+    "linux": [
+        "software_backend_developer", 
+        "software_developer"
+    ], 
+    "git": [
+        "software_backend_developer", 
+        "java_developer", 
+        "software_developer"
+    ], 
+    "java": [
+        "software_backend_developer", 
+        "java_developer", 
+        "software_developer", 
+        "junior_software_engineer"
+    ], 
+    "asp.net": [
+        "software_backend_developer", 
+        "junior_software_engineer"
+    ], 
+    "python": [
+        "junior_software_engineer"
+    ], 
+    "html": [
+        "junior_software_engineer"
+    ], 
+    "microsoft_office": [
+        "junior_software_engineer"
+    ], 
+    "android": [
+        "software_developer"
+    ], 
+    "css": [
+        "software_backend_developer", 
+        "junior_software_engineer"
+    ], 
+    "scrum": [
+        "software_backend_developer", 
+        "java_developer"
+    ], 
+    "c#": [
+        "software_backend_developer", 
+        "software_developer", 
+        "junior_software_engineer"
+    ], 
+    "mongodb": [
+        "java_developer"
+    ], 
+    "javascript": [
+        "software_backend_developer", 
+        "java_developer", 
+        "software_developer", 
+        "junior_software_engineer"
+    ], 
+    "html5": [
+        "software_backend_developer"
+    ], 
+    "php": [
+        "software_backend_developer", 
+        "java_developer", 
+        "software_developer"
+    ], 
+    "ruby": [
+        "software_developer"
+    ], 
+    "jquery": [
+        "software_backend_developer", 
+        "java_developer", 
+        "junior_software_engineer"
+    ], 
+    "eclipse": [
+        "java_developer"
+    ], 
+    "c++": [
+        "software_developer", 
+        "junior_software_engineer"
+    ], 
+    "oracle": [
+        "java_developer", 
+        "software_developer"
+    ]
+}

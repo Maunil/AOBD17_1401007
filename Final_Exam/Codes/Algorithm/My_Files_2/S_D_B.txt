@@ -1,0 +1,14 @@
+software_backend_developer
+
+php:(3 Years)
+html5:(3 Years)
+javascript:(3 Years)
+java:(2 Years)
+css:(3 Years)
+c#:(2 Years)
+git:(1 Year)
+jquery:(3 Years)
+scrum:(1 Year)
+linux:(1 Year)
+angularjs:(3 Years)
+asp.net:(3 Years)

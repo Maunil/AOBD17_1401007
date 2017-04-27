@@ -1,0 +1,9 @@
+Additional Information
+EXPERIENCE:  
+PHP, Angular.JS, Node.JS, Strongloop, Loopback, Meteor.JS, Cordova, JavaScript, Jquery, Html5, Css e Bootstrap. 
+Architecture MVC, Object Oriented Programming,  
+Database Modeling. 
+Relational and non-relational database: Mysql, Postgres, SQL-Server e MongoDB. 
+Agile Methodology SCRUM. 
+Versioning system GIT and SVN 
+Automation of front-end build with Grunt.

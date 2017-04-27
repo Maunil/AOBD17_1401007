@@ -1,0 +1,12 @@
+java_developer
+
+java:(3 Years)
+php:(3 Years)
+jquery:(6 Years)
+javascript:(1 Year)
+oracle:(4 Years)
+scrum:(5 Years)
+eclipse:(3 Years)
+git:(3 Years)
+hibernate:(2 Years)
+mongodb:(1 Year)

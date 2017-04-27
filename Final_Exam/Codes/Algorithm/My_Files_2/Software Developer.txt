@@ -1,0 +1,14 @@
+software_developer
+
+java:(4 Years)
+c++:(4 Years)
+javascript:(3 Years)
+oracle:(3 Years)
+ruby:(2 Years)
+git:(3 Years)
+linux:(5 Years)
+php:(2 Years)
+android:(3 Years)
+c#:(1 Year)
+dot_net:(3 Years)
+visual_studio:(1 Year)

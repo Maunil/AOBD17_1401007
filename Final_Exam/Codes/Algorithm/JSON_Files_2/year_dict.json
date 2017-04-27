@@ -1,0 +1,142 @@
+{
+    "java_developer": {
+        "jquery": [
+            "(6 Years)"
+        ], 
+        "scrum": [
+            "(5 Years)"
+        ], 
+        "java": [
+            "(3 Years)"
+        ], 
+        "mongodb": [
+            "(1 Year)"
+        ], 
+        "javascript": [
+            "(1 Year)"
+        ], 
+        "eclipse": [
+            "(3 Years)"
+        ], 
+        "git": [
+            "(3 Years)"
+        ], 
+        "hibernate": [
+            "(2 Years)"
+        ], 
+        "oracle": [
+            "(4 Years)"
+        ], 
+        "php": [
+            "(3 Years)"
+        ]
+    }, 
+    "software_developer": {
+        "visual_studio": [
+            "(1 Year)"
+        ], 
+        "git": [
+            "(3 Years)"
+        ], 
+        "java": [
+            "(4 Years)"
+        ], 
+        "dot_net": [
+            "(3 Years)"
+        ], 
+        "c#": [
+            "(1 Year)"
+        ], 
+        "javascript": [
+            "(3 Years)"
+        ], 
+        "c++": [
+            "(4 Years)"
+        ], 
+        "linux": [
+            "(5 Years)"
+        ], 
+        "oracle": [
+            "(3 Years)"
+        ], 
+        "android": [
+            "(3 Years)"
+        ], 
+        "php": [
+            "(2 Years)"
+        ], 
+        "ruby": [
+            "(2 Years)"
+        ]
+    }, 
+    "junior_software_engineer": {
+        "jquery": [
+            "(4 Years)"
+        ], 
+        "java": [
+            "(1 Year)"
+        ], 
+        "asp.net": [
+            "(2 Years)"
+        ], 
+        "c#": [
+            "(1 Year)"
+        ], 
+        "javascript": [
+            "(4 Years)"
+        ], 
+        "c++": [
+            "(5 Years)"
+        ], 
+        "python": [
+            "(4 Years)"
+        ], 
+        "html": [
+            "(1 Year)"
+        ], 
+        "microsoft_office": [
+            "(1 Year)"
+        ], 
+        "css": [
+            "(1 Year)"
+        ]
+    }, 
+    "software_backend_developer": {
+        "jquery": [
+            "(3 Years)"
+        ], 
+        "git": [
+            "(1 Year)"
+        ], 
+        "java": [
+            "(2 Years)"
+        ], 
+        "c#": [
+            "(2 Years)"
+        ], 
+        "javascript": [
+            "(3 Years)"
+        ], 
+        "scrum": [
+            "(1 Year)"
+        ], 
+        "asp.net": [
+            "(3 Years)"
+        ], 
+        "html5": [
+            "(3 Years)"
+        ], 
+        "angularjs": [
+            "(3 Years)"
+        ], 
+        "linux": [
+            "(1 Year)"
+        ], 
+        "php": [
+            "(3 Years)"
+        ], 
+        "css": [
+            "(3 Years)"
+        ]
+    }
+}

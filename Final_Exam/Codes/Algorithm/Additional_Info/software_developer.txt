@@ -1,0 +1,9 @@
+->Good Communications and Presentation Skills
+
+Technical Skills:  
+    ->PHP, Angular.JS, Node.JS, Strongloop, Loopback, Meteor.JS, Cordova, JavaScript, Jquery, Html5, Css e Bootstrap
+    ->SharePoint, .NET C#, Angular, BizTalk 
+    ->Mathematical Modelling
+    ->Database Modeling
+
+->Some have Nano-Degree from Udacity on various fields like Android Developement, Machine Learning, Data Science...

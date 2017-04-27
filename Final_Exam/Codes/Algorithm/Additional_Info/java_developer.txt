@@ -1,0 +1,16 @@
+Java: Eclipse and NetBeans IDE's, JSF, RichFaces, PrimeFaces and Ajax, Struts, Seam, Hibernate JPA, EJB, 
+iReport and JasperReports, Maven. 
+ 
+Integration: Java-COBOL integration via XML and CICS; SOAP, XML, XSD and WSDL, JMS and MQ queues, 
+SVN, CVS, Jazz and ALM, besides Hudson and Jenkins continuous integration, Artifactory, Achiva and RAM as 
+maven repositories. 
+ 
+Web: AngularJS, JavaScript, Jquery, CSS, HTML, XHTML, JSP, JSPX, besides Jboss, Weblogic and Tomcat 
+application server; 
+ 
+Database: Oracle, MySQL, PostgreSQL, DB2; 
+ 
+Hardware and Automation: Arduino Platform, Physical and Remote Sensing, Preparation and development 
+of communication protocols, preparation of electronic circuit boards and integration of wireless technology. 
+ 
+Operational Systems: Linux (Ubuntu) Windows and Mac OS.

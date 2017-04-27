@@ -1,0 +1,13 @@
+software_backend_developer
+
+php
+html5
+javascript
+java
+css
+c#
+git
+jquery
+scrum
+linux
+angularjs

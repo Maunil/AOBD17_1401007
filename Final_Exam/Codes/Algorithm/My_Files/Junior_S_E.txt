@@ -1,0 +1,12 @@
+junior_software_engineer
+
+microsoft_office
+java
+c++
+javascript
+c#
+html
+jquery
+css
+python
+asp.net

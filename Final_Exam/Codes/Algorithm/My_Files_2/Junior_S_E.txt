@@ -1,0 +1,12 @@
+junior_software_engineer
+
+microsoft_office:(1 Year)
+java:(1 Year)
+c++:(5 Years)
+javascript:(4 Years)
+c#:(1 Year)
+html:(1 Year)
+jquery:(4 Years)
+css:(1 Year)
+python:(4 Years)
+asp.net:(2 Years)

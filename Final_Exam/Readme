@@ -1,0 +1,12 @@
+Final Exam Code 
+
+Written in python 2.7 
+
+Some Additional packets required 
+https://bitbucket.org/spirit/guess_language
+
+To install guess language library 
+pip install guess_language-spirit
+
+To install Dictionary 
+pip install pyenchant

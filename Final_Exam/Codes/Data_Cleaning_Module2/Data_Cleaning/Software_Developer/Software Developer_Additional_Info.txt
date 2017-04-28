@@ -1,0 +1,36 @@
+Additional Information
+Language 
+English - Professional working proficiency
+Additional Information
+An analyst and software developer that holds a master's degree from Brazilian Aeronautics Institute 
+of Technology (ITA) with focus in High Performance Computing. Has skills and knowledge about 
+parallel (shared and distributed memory) software design, code optimization, data processing, 
+algorithm and data structures. Also have interest in linux kernel programming, benchmarks 
+techniques, ARM architecture and computational geometry.
+Additional Information
+QUALIFICATIONS 
+ 
+Well-accomplished Member of Association for Computing Machinery - ACM, of the Brazilian Computer 
+Society - SBC and Senior Member of Institute of Electrical and Electronics Engineering - IEEE, with 19+ 
+years of industry experience with systems development for the Internet and heterogeneous systems 
+integration. Solid experience in modeling of environment and business processes to be represented on 
+Integration Systems environment (EAI). Solid experience with research & development and incorporating 
+research results into products. Experienced with distribution and parallelism concerns on the development of 
+commercial and scientific projects. Fluent in English and experienced in working in multidisciplinary and 
+geographically distributed teams, delegating responsibilities when necessary. Worked in offshore projects with 
+USA teams.
+Additional Information
+SharePoint, .NET C#, Angular, BizTalk
+Additional Information
+EXPERIENCE:  
+PHP, Angular.JS, Node.JS, Strongloop, Loopback, Meteor.JS, Cordova, JavaScript, Jquery, Html5, Css e Bootstrap. 
+Architecture MVC, Object Oriented Programming,  
+Database Modeling. 
+Relational and non-relational database: Mysql, Postgres, SQL-Server e MongoDB. 
+Agile Methodology SCRUM. 
+Versioning system GIT and SVN 
+Automation of front-end build with Grunt.
+Additional Information
+I am passionate about software development area and I have worked more than 14 years developing solutions, taught many students about the techniques and tricks of software development, like design patterns, algorithms, Java, Python, PHP, web structure, html, css, javascript and others things. 
+ 
+In December of 2016 I started the Machine Learning nanodegree program of Udacity, in which I learn a lot of things about data science, data exploring and prediction algorithms, using python, pandas, matplot and other tools.

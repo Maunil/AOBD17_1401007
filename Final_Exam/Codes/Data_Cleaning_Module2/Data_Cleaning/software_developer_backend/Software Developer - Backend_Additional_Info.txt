@@ -1,0 +1,55 @@
+Additional Information
+I am focused and thorough in my work, I always do my best to deliver products that are fully consistent and meet the deadline. I work hard to achieve the goals and I am willing to go the extra mile. I have a great interest for Software Development which reaches beyond the work place. Thus, I participate in Meetup events, I take online courses and I enjoy to try different technologies on my spare time. I believe actions as such, are necessary in order to keep up with our fast changing field. 
+ 
+I believe that I am a good colleague. I am open minded and I think that the best ideas are developed in cooperation with my colleagues. I thrive working in a team but I also work well individually. Finally, it is high priority for me to have a good social relationship with my colleagues and I look always forward to Friday bars, celebrations and other events.
+Additional Information
+All my work experience listed here are consultant assignments. 
+My current contract has a 3 month notice. It might be negotiable.
+Additional Information
+Technical Skills 
+Operating Systems Windows XP, Windows 7,8.1, UNIX,UNIX Shell Scripting 
+Languages SQL, PL/SQL , Java 
+Tools TOAD, AquaData Studio, PowerBuilder 11, Java NetBeans, JIRA, Visual Source Safe, Dreamweaver, SQLyog 
+Database Oracle (Oracle 9i/10g), Sybase, MySQL 
+Statistical & Data Mining Tools SAS VA, Pentaho 
+Web Technologies HTML, JSP, JavaScript 
+Programming Languages Java, C
+Additional Information
+Worked on: 
+http://www.autodoc.de/ 
+http://www.pkwteile.de/, http://m.pkwteile.de/ 
+Yii Framework: 
+http://www.ribalochka.net/ 
+http://www.pxel.ru/ 
+CodeIgniter: 
+http://medmass.com.ua/ 
+http://bagi.net.ua/ 
+http://freska.org.ua/
+Additional Information
+Other IT Skills 
+Web Languages; Perl, Python and Ruby. 
+Word Processing, Spreadsheet and Presentation Management.
+Additional Information
+Projects 
+ 
+*ING Bank, I have had many additional intefaces or new devolopment for various banking tools (EFT(Money Transfer System),Budget,Account,Contract ,CutOff,Messaging ,Warrant ,Location) 
+ 
+*ING Bank ,Central Identity Managment System and additional entegrations (Dell Quest Infrastructure) 
+ 
+*ING Bank ,Cadasral and Title deed Questioning System 
+ 
+*ING Bank, Xnext - new banking infrastructure transformation project  
+ 
+*BIS company ,basic banking projects 
+ 
+*Members activity following automation system 
+ 
+*Production planing and product tree automation system 
+ 
+Tepe Tech & Tchealth - Millitary health automation system 
+ 
+Dijitek- Budget And Account System Public Institution Purchase System, Human Resource And Bond Calculate System,Vehicle Maintenance Repariment Tracking System  
+ 
+Basarsoft -  
+*Achieve poi from Google Street View Camera scenes with image processing techniques 
+*Automatic Contour Map Digitizing System

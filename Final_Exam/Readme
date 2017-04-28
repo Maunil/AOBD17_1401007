@@ -12,4 +12,18 @@ To install Dictionary
 pip install pyenchant
 
 
-The code has been designed independently for two modules 
+The code has been designed independently for two modules
+
+The final Algorith code will be in 
+For Module 1
+Two Cases 
+1) Algorithm/Output1_1.py 
+2) Algorithm/Output1_2.py
+
+
+For Module 2 
+1) Algorithm/Output2_1.py 
+2) Algorithm/Output2_2.py
+
+
+All the data processing related codes are kept individually with processed data in Module 1 and Module 2 Folders 

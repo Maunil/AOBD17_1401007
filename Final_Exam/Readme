@@ -16,6 +16,7 @@ The code has been designed independently for two modules
 
 The final Algorith code will be in 
 For Module 1
+
 Two Cases 
 1) Algorithm/Output1_1.py 
 2) Algorithm/Output1_2.py
@@ -26,4 +27,9 @@ For Module 2
 2) Algorithm/Output2_2.py
 
 
-All the data processing related codes are kept individually with processed data in Module 1 and Module 2 Folders 
+All the data processing related codes are kept individually with processed data in Data_Clean_Module 1 and Data_Clean_Module 2 Folders 
+
+Outputs of the codes are also kept in Algorithm/Output/Output1.txt and Output2.txt, assosiated inputs are kept in Algorithm/new_user.txt 
+and new_user_2.txt 
+
+

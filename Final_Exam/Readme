@@ -10,3 +10,6 @@ pip install guess_language-spirit
 
 To install Dictionary 
 pip install pyenchant
+
+
+The code has been designed independently for two modules 
